@@ -1,0 +1,1 @@
+ALTER TABLE public.habits ADD COLUMN category text DEFAULT 'general' NOT NULL;
